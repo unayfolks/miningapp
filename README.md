@@ -8,9 +8,10 @@ npm : 9.1.1
 
 Petunjuk Penggunaan
 1. buat database dengan nama mining
-2. import mining.sql
-3. npm run dev
-4. php artisan serve
+2. npm install
+3. import mining.sql
+4. npm run dev
+5. php artisan serve
 
 Admin
 email : budi@gmail.com
